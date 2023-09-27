@@ -1,7 +1,7 @@
 # Art Of Dance
-`rgb(153,0,0)`
+
 ### About
-  - [History](docs/HISTORY.md)
+  - [History](docs/##HISTORY.md)
   - [Why I dance](docs/WHYIDANCE.md)
   - [How to start](docs/HOWTOSTART.md)
 
